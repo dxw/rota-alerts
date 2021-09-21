@@ -10,3 +10,4 @@ script/*
 .DS_Store
 LICENSE
 .idea/*
+.husky/
