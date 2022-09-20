@@ -21,7 +21,7 @@
     "moment": "^2.29.3"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^3.9.1",
+    "@typescript-eslint/eslint-plugin": "^5.38.0",
     "@wearedxw/eslint-config": "^2.0.0",
     "dotenv": "^8.2.0",
     "eslint": "^7.16.0",
